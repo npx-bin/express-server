@@ -1,0 +1,14 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "An Express Server launcher",
+  "bin": {
+    "express-server": "./exec/index.js"
+  },
+  "author": "K.C.Ashish Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "opn": "^5.4.0"
+  }
+}
