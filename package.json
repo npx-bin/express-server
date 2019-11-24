@@ -1,5 +1,5 @@
 {
-  "name": "express-server",
+  "name": "@npx-bin/express-server",
   "version": "1.0.0",
   "description": "An Express Server launcher",
   "bin": {
