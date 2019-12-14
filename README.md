@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/npx-bin/express-server/master/assets/express-server.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/npx-bin/misc/master/express-server_logo.png" width="100%"/>
 
 # express-server
 An Express Server launcher
