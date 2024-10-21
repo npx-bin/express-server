@@ -1,0 +1,15 @@
+{
+  "name": "@npx-bin/express-server",
+  "version": "1.0.0",
+  "description": "An Express Server launcher",
+  "bin": {
+    "express-server": "./exec/index.js"
+  },
+  "author": "K.C.Ashish Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "cors": "^2.8.5",
+    "opn": "^5.4.0"
+  }
+}
